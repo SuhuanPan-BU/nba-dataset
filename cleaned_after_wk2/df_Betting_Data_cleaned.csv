@@ -1,4 +1,4 @@
-season,date,regular,playoffs,away,home,score_away,score_home,q1_away,q2_away,q3_away,q4_away,ot_away,q1_home,q2_home,q3_home,q4_home,ot_home,away_calc_score,home_calc_score,actual_total,expected_id_total,fav_margin,expected_id_spread,expected_favorite,Game_Type
+season,date,regular,playoffs,away,home,score_away,score_home,q1_away,q2_away,q3_away,q4_away,ot_away,q1_home,q2_home,q3_home,q4_home,ot_home,away_calc_score,home_calc_score,actual_total,expected_id_total,fav_margin,expected_id_spread,expected_favorite,game_type
 2024,2023-10-24,True,False,LAL,DEN,107,119,20,34,26,27,0,34,29,24,32,0,107,119,226,0.0,12,1.0,home,Regular
 2024,2023-10-24,True,False,PHX,GS,108,104,28,33,19,28,0,28,18,40,18,0,108,104,212,0.0,-4,0.0,home,Regular
 2024,2023-10-25,True,False,NO,MEM,111,104,25,32,25,29,0,28,19,23,34,0,111,104,215,0.0,-7,0.0,home,Regular
