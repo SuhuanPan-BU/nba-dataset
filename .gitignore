@@ -1,0 +1,23 @@
+# Ignore all files inside data folder
+data/**
+
+# But keep these folder placeholders
+!data/
+!data/raw/
+!data/raw/.gitkeep
+!data/preprocessed/
+!data/preprocessed/.gitkeep
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
